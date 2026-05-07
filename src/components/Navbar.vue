@@ -21,7 +21,7 @@
           Home
         </router-link>
         <router-link 
-          to="/about" 
+          to="/about?test=123456" 
           :class="{ active: isActive('/about') }"
           @click="isMenuOpen = false"
         >
