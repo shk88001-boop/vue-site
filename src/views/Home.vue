@@ -3,7 +3,7 @@
     <!-- HERO SECTION -->
     <section class="hero-section">
       <div class="hero-left">
-        <h1>Intelligent Digital Solutions Powered by Artificial Intelligence</h1>
+        <h1>Simplify Your Workflow And Get More Done</h1>
         <p>
           We design and develop next-generation digital products that help businesses
           automate processes, gain insights, and deliver exceptional user experiences.
